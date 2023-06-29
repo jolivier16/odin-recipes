@@ -14,15 +14,13 @@ html {
     background-size: cover;
     background-color: antiquewhite;
     height: 100%;
-    backdrop-filter: blur(8px);
 }
 
 body {
     text-align: center;
 }
 
-.odin {
+.title {
     color: antiquewhite;
-    stroke: black;
 }
 
