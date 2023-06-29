@@ -1,0 +1,28 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+}
+
+html {
+    background: url("./recipes/images/bg-counter.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: antiquewhite;
+    height: 100%;
+    backdrop-filter: blur(8px);
+}
+
+body {
+    text-align: center;
+}
+
+.odin {
+    color: antiquewhite;
+    stroke: black;
+}
+
